@@ -73,7 +73,7 @@ img{
     .card{
         flex-direction: column-reverse;
         width: 100%;
-        max-width: 375px;
+        max-width: 20rem;
     }
     .card-image img,
     .card-image picture {
